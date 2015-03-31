@@ -10,6 +10,7 @@ int main(void)
 	}
 	printf("Hello World!\n");
 	getch(); //¹ÚÀç¼º
+// do no push *** 
 	printf("SourceTree!!!!\n");
 	return 0;
 }
