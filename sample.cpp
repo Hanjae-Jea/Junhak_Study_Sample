@@ -8,12 +8,17 @@ int main(void)
 	for( int i = 9 ; i >= 1 ; i -- ){
 		sum = sum + i;
 	}
+    
 	printf("Hello Worldfsdfdsfsdfsdfsdfsdfdsf!\n");
-	getch();
 
     
     
     //sdoijfosjfoisdjiofsdjofijsodfjosdfjosdfioisdjfo
+	printf("Hello World!\n");
+	printf("Using SourceTree!!!!?\n"));
+	getch(); //¹ÚÀç¼º
+// do no push *** 
 	printf("SourceTree!!!!\n");
 	return 0;
 }
+
