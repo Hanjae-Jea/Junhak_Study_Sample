@@ -9,7 +9,7 @@ int main(void)
 		sum = sum + i;
 	}
 	printf("Hello World!\n");
-	printf("Using SourceTree!!!!?\n"));
+	printf("Using SourceTree!!!!?\n");
 	getch();
 
 	printf("SourceTree!!!!\n");
