@@ -9,9 +9,8 @@ int main(void)
 		sum = sum + i;
 	}
 	printf("Hello World!\n");
-	getch();
-	printf("git hub\n");
+	getch(); //¹ÚÀç¼º
+	printf("SourceTree!!!!\n");
 	return 0;
-
-	
 }
+
