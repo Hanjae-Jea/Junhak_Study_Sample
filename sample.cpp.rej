@@ -1,0 +1,10 @@
+diff a/sample.cpp b/sample.cpp	(rejected hunks)
+@@ -9,7 +9,7 @@
+ 		sum = sum + i;
+ 	}
+ 	printf("Hello World!\n");
+-	printf("Using SourceTree!!!!?\n"));
++	printf("Using SourceTree!!!!?\n");
+ 	getch();
+ 
+ 	printf("SourceTree!!!!\n");

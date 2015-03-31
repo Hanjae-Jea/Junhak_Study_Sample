@@ -9,9 +9,15 @@ int main(void)
 		sum = sum + i;
 	}
 	printf("Hello World!\n");
+<<<<<<< HEAD
 	printf("Using SourceTree!!!!?\n"));
 	getch();
 
+=======
+	getch(); //¹ÚÀç¼º
+// do no push *** 
+>>>>>>> 92470306069200a098cff22d9339ee46a98e7e8d
 	printf("SourceTree!!!!\n");
 	return 0;
 }
+
